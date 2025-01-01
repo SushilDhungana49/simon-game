@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/project/simon-game",
+      "destination": "https://simon-game-gamma-azure.vercel.app/",
+      "permanent": true
+    }
+  ]
+}
